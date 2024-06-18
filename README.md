@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorMay07
 - 👀 I’ love programing
-- developer in process..................
+- Developer in process..................
 
 
 <!---
